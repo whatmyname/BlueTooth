@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "505747bb-48a9-4fde-8ce7-12f3f1b532eb++6171" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "505747bb-48a9-4fde-8ce7-12f3f1b532eb++6171" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "08F00914-3A61-4322-9411-E97641732D14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "505747bb-48a9-4fde-8ce7-12f3f1b532eb++6171" : "..\/newbugoo"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bugoo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bugoo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/localhost",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "505747bb-48a9-4fde-8ce7-12f3f1b532eb++6171"
+    }
+  ]
+}

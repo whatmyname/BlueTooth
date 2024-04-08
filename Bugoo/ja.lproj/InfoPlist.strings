@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Bugoo
+
+  Created by bugoo on 15/8/17.
+  Copyright © 2017年 bugoo. All rights reserved.
+*/
+NSAppleMusicUsageDescription="\"Bugoo TPMS\" requires your approval to access library";
+NSBluetoothPeripheralUsageDescription = "\"Bugoo TPMS\" requires your approval to obtain bluetooth information";
+NSCameraUsageDescription = "\"Bugoo TPMS\" requires your approval to access camera";
+NSLocationAlwaysUsageDescription = "\"Bugoo TPMS\" requires your approval to obtain position and tire information";
+NSLocationUsageDescription = "\"Bugoo TPMS\" requires your approval to obtain position and tire information";
+NSLocationWhenInUseUsageDescription = "\"Bugoo TPMS\" requires your approval to obtain position and tire information";
+NSPhotoLibraryUsageDescription = "\"Bugoo TPMS\" requires your approval to access gallery";
